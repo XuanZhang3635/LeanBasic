@@ -1,0 +1,2 @@
+# LeanBasic
+Exercise for Lean
